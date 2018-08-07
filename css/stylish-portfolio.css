@@ -6,6 +6,7 @@
 
 @import url(http://fonts.googleapis.com/earlyaccess/jejuhallasan.css);
 @import url(http://fonts.googleapis.com/earlyaccess/jejumyeongjo.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
 
 body,
 html {
@@ -108,7 +109,7 @@ h6 {
 }
 
 .masthead h1 {
-  font-size: 3rem;
+  font-size: 2.9rem;
   margin: 0;
   padding: 0;
   font-family: 'Jeju Hallasan', serif;
@@ -116,7 +117,8 @@ h6 {
 
 .masthead h2 {
   font-size: 1.8rem;
-  font-family: 'Jeju Myeongjo', serif;
+  font-family: 'Nanum Myeongjo', serif;
+  font-weight: bold;
 }
 
 @media (min-width: 992px) {
